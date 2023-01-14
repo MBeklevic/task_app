@@ -12,6 +12,7 @@
 - User can mark the task as completed by clicking on,
 - User can edit the task by clicking edit button,
 - User can delete the task by clicking delete button.
+- Responsive Design
 
 ## Libraries
 - React
